@@ -11,8 +11,8 @@
     <groupId>com.accomodation</groupId>
     <artifactId>demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Frontend Accomodation dot com</name>
-    <description>Frontend Accomodation dot com</description>
+    <name>Frontend_Accommodation_dot_com</name>
+    <description>Frontend_Accommodation_dot_com</description>
 
     <properties>
         <java.version>11</java.version>
