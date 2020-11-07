@@ -5,6 +5,8 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 public class HomeController {
+    public static void main(String[] args) {
 
+    }
 
 }
